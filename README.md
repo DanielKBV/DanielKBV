@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkbv&label=Profile%20views&color=0e75b6&style=flat" alt="danielkbv" /> </p>
 
-- 🌱 I’m currently learning **Peaksoft House**
-
-- 💬 Ask me about **react,**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **danielkyrgyz200715@gmail.com**
 
