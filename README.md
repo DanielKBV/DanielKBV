@@ -5,6 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkbv&label=Profile%20views&color=0e75b6&style=fla" alt="gif 2" /> </p>
 
+Hello everyone! My name is Daniel Kubanychbekov, and I'd like to tell you a little about myself.
+
+I'm 16 years old, and I was born on May 15th, 2007. I started programming when I was 15 years old at Peaksoft House.
+
+I finished 9th grade early because I started school one year early.
+
+I enjoy learning and improving my skills, and I believe that doing so will help me achieve greater success in life. I have confidence in myself and my abilities, and I believe that I will have many opportunities to succeed in the future.
+
+Every day, I motivate myself with these three phrases:
+1. It doesn't matter how old you are, what matters is how you use it..
+2. One hand washes the other.
+3. You don't need more time, you need more focus.
+
+I hope to continue learning and growing, and I'm excited to see where my passion for programming and self-improvement will take me in the future.
+
 - 🌱 I’m currently learning **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **danielkyrgyz200715@gmail.com**
