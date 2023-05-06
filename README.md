@@ -6,11 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielkbv&label=Profile%20views&color=0e75b6&style=fla" alt="gif 2" /> </p>
 
 Hello everyone! My name is Daniel Kubanychbekov, and I'd like to tell you a little about myself.
-
 I'm 16 years old, and I was born on May 15th, 2007. I started programming when I was 15 years old at Peaksoft House.
-
 I finished 9th grade early because I started school one year early.
-
 I enjoy learning and improving my skills, and I believe that doing so will help me achieve greater success in life. I have confidence in myself and my abilities, and I believe that I will have many opportunities to succeed in the future.
 
 Every day, I motivate myself with these three phrases:
