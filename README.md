@@ -3,9 +3,9 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Kubanycbekov
 ===========================================================================================================================================
  -->
- <br />
+
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=100&center=true&repeat=false&width=510&lines=Daniel+Kubanycbekov" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1&pause=1000&center=true&repeat=false&width=510&height=60&lines=Daniel+Kubanycbekov" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
