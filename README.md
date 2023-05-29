@@ -61,4 +61,20 @@ src="https://img.shields.io/github/followers/DanielKBV?logo=github&style=for-the
 </table>
 
 
-<a href="http://www.github.com/DanielKBV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielKBV&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielKBV&theme=github_dark)
+
+<table>
+  <tr>
+    <td>
+     <p>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielKBV&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
+     </p>
+    </td>
+    <td>
+     <p>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielKBV&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
+     </p>
+    </td>
+  </tr>
+</table>
+ 
