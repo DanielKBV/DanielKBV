@@ -49,7 +49,8 @@
  <img src="https://skills.thijs.gg/icons?i=firebase" alt="DanielKBV's GitHub Tools I use" />
 </a>
 
-<b>My GitHub Stats</b>
+<h2>My GitHub Stats</h2>
+<!-- <br /> -->
 
 <table>
   <tr>
