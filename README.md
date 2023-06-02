@@ -21,11 +21,9 @@
 * 🧠  I'm learning React, JavaScript, TypeScript
 * ⚡  I'm bad at remembering people's names
 
-<a href="https://www.github.com/DanielKBV" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DanielKBV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
 
+### 🪄 Technologies I use
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -35,17 +33,21 @@ src="https://img.shields.io/github/followers/DanielKBV?logo=github&style=for-the
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 </p>
 
+### 🧰 Tools I use
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/DanielKBV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
+<a href="https://code.visualstudio.com/">
+ <img src="https://skills.thijs.gg/icons?i=vscode" alt="DanielKBV's GitHub Tools I use" />
+</a>
+<a href="https://www.figma.com/ui-design-tool/">
+ <img src="https://skills.thijs.gg/icons?i=figma" alt="DanielKBV's GitHub Tools I use" />
+</a>
+<a href="https://firebase.google.com/">
+ <img src="https://skills.thijs.gg/icons?i=firebase" alt="DanielKBV's GitHub Tools I use" />
+</a>
 
 <b>My GitHub Stats</b>
 
