@@ -19,7 +19,6 @@
 
 * ✉️  You can contact me at [danielkyrgyz200715@gmail.com](mailto:danielkyrgyz200715@gmail.com)
 * 🧠  I'm learning React, JavaScript, TypeScript
-* ⚡  I'm bad at remembering people's names
 
 
 
