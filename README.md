@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="ç?font=Fira+Code&weight=500&pause=100&center=true&width=510&lines=I+am+a+front-end+developer+from+Kyrgyzstan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100&center=true&width=510&lines=I+am+a+front-end+developer+from+Kyrgyzstan" alt="Typing SVG" />
 </p>
 <!-- ------------------------------------------ -->
 
